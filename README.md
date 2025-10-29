@@ -40,3 +40,28 @@ A financial tracking dashboard created in **Microsoft Excel** to monitor and ana
 **Aditya Kumar Gupta**  
 📧 adityaa.guptaa17@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-gupta-46ab23159/)  
+
+## ☕ Brew Heaven Power BI Dashboard
+
+### Overview
+Developed an interactive Power BI dashboard for a local coffee chain — *Brew Heaven* — to consolidate sales, inventory, and customer feedback data. The dashboard provides insights into sales performance, customer satisfaction, and stock management.
+
+### Features
+- Created two interactive report pages: **Sales Page** and **Management Page**
+- Visualized sales trends, product performance, and reorder levels by supplier
+- Integrated customer feedback and calculated average ratings
+- Used Power Query for data cleaning and transformation
+
+### Skills Demonstrated
+- Power BI
+- Data Cleaning and Modeling
+- Data Visualization
+- DAX Calculations
+- Business Insights & Reporting
+
+### Project Preview
+![Sales Page](./Sales_Page.png)
+![Management Page](./Management_Page.png)
+
+### Files
+- `final.pbix` — Power BI Project File
