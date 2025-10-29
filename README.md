@@ -41,27 +41,51 @@ A financial tracking dashboard created in **Microsoft Excel** to monitor and ana
 📧 adityaa.guptaa17@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-gupta-46ab23159/)  
 
-## ☕ Brew Heaven Power BI Dashboard
+# ☕ Brew Heaven Power BI Dashboard
 
-### Overview
-Developed an interactive Power BI dashboard for a local coffee chain — *Brew Heaven* — to consolidate sales, inventory, and customer feedback data. The dashboard provides insights into sales performance, customer satisfaction, and stock management.
+### 📖 Overview
+Developed an interactive Power BI dashboard for **Brew Heaven**, a local coffee shop chain, to consolidate sales, inventory, and customer feedback data.  
+The dashboard provides insights into:
+- Sales trends and product performance  
+- Customer satisfaction and feedback  
+- Stock levels and reorder management
 
-### Features
+---
+
+### 🧰 Features
 - Created two interactive report pages: **Sales Page** and **Management Page**
-- Visualized sales trends, product performance, and reorder levels by supplier
-- Integrated customer feedback and calculated average ratings
-- Used Power Query for data cleaning and transformation
+- Visualized **sales by category, time, and product**
+- Integrated **customer feedback** and calculated **average ratings**
+- Used **Power Query** for data transformation and cleaning
 
-### Skills Demonstrated
-- Power BI
-- Data Cleaning and Modeling
-- Data Visualization
-- DAX Calculations
+---
+
+### 💡 Skills Demonstrated
+- Power BI  
+- Data Cleaning & Modeling  
+- Data Visualization  
+- DAX Calculations  
 - Business Insights & Reporting
 
-### Project Preview
+---
+
+### 🖼️ Project Preview
+#### Sales Page  
 ![Sales Page](./Sales_Page.png)
+
+#### Management Page  
 ![Management Page](./Management_Page.png)
 
-### Files
-- `final.pbix` — Power BI Project File
+---
+
+### 📁 Files Included
+- `final.pbix` → Power BI project file  
+- `Professional_Monthly_Financial_Dashboard.xlsx` → Excel dataset used  
+- `README.md` → Project documentation  
+
+---
+
+### 👤 Author
+**Aditya Kumar Gupta**  
+📧 [aditya.gupta17@gmail.com](mailto:aditya.gupta17@gmail.com)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/aditya-kumar-gupta-46ab23159)
