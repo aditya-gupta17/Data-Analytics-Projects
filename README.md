@@ -89,3 +89,27 @@ The dashboard provides insights into:
 **Aditya Kumar Gupta**  
 📧 [aditya.gupta17@gmail.com](mailto:aditya.gupta17@gmail.com)  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/aditya-kumar-gupta-46ab23159)
+
+🎨 How to Visualize Your Data Using Microsoft PowerPoint
+
+**Overview**  
+A hands-on guided project from Coursera focused on creating interactive and engaging PowerPoint presentations for data storytelling and visualization.
+
+**Features**  
+- Customized slides with data-driven visuals using SmartArt and charts  
+- Enhanced storytelling by combining visuals, transitions, and animations  
+- Hands-on practice designing professional presentation layouts  
+
+**Skills Demonstrated**  
+- Data Visualization  
+- Storytelling with Data  
+- Microsoft PowerPoint  
+- Presentation Design  
+
+**Project Files**  
+- `Project Presentation for Learners 1.odp` – Editable PowerPoint version  
+- `Project Presentation for Learners 1.pdf` – Read-only presentation version  
+
+**Credential**  
+[View Certificate on Coursera](https://coursera.org/account/accomplishments/verify/16NIEYZJ1X7T)
+
