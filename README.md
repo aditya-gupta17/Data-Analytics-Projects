@@ -116,3 +116,27 @@ A hands-on guided project from Coursera focused on creating interactive and enga
 **Credential**  
 [View Certificate on Coursera](https://coursera.org/share/6a19eef91fd70cd4c6c44b9eb04c0059)
 
+---
+
+## 🎨 Get Started with Canva (Coursera Guided Project)
+
+**Overview:**  
+Completed the Coursera Guided Project *“Get Started with Canva”* focused on mastering foundational digital design and multimedia creation.  
+Developed a 21-second animated video to communicate COVID-19 safety guidelines, blending stock imagery, vector graphics, and animated text overlays for clear, impactful storytelling.
+
+**Features:**  
+- Professionally designed animated video created entirely in Canva  
+- Slide-based layout structure for smooth transitions  
+- Used Canva’s motion, timing, and layering tools  
+- Focused on clarity, creativity, and audience engagement  
+
+**Skills Demonstrated:**  
+Canva · Graphic Design · Video Editing · Storytelling · Visual Communication  
+
+**Files:**  
+🎥 [Canva Project Video (Google Drive)]( https://drive.google.com/file/d/1x_o1KRRMktmvIiPTr8YgI3zkIA08Fyfk/view?usp=sharing )  
+📜 [Coursera Certificate]( https://coursera.org/share/64864fa5a75004ad6eb2a887149ddec8 )
+
+**Credential:** Coursera Guided Project – *Get Started with Canva*  
+**Author:** Aditya Kumar Gupta  
+📧 adityaa.guptaa17@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-gupta-46ab23159)
