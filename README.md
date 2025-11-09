@@ -135,7 +135,7 @@ Developed a 21-second animated video to communicate COVID-19 safety guidelines, 
 Canva · Graphic Design · Video Editing · Storytelling · Visual Communication  
 
 **Files:**  
-🎥 [Canva Project Video (Google Drive)]( https://drive.google.com/file/d/1x_o1KRRMktmvIiPTr8YgI3zkIA08Fyfk/view?usp=sharing )  
+🎥 [Watch Canva Project Video](https://github.com/aditya-gupta17/Data-Analytics-Projects/blob/main/Get_Started_With_Canva_Project.mp4)  
 📜 [Coursera Certificate]( https://coursera.org/share/64864fa5a75004ad6eb2a887149ddec8 )
 
 **Credential:** Coursera Guided Project – *Get Started with Canva*  
