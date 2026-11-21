@@ -9,6 +9,7 @@ Built by **Aditya Kumar Gupta**, MBA (Marketing) | MIS & Business Analytics
 3. [🎨 How To Visualize Your Data Using Microsoft PowerPoint](#-how-to-visualize-your-data-using-microsoft-powerpoint)
 4. [🎨 Get Started with Canva](#-get-started-with-canva)
 5. [🛒 Ration Shop Stock & Sales Tracker (Excel)](#-ration-shop-stock--sales-tracker-excel)
+6. [📈 Sales Dashboard: Regions, Products & Targets (Excel)](#-sales-dashboard-regions-products--targets-excel)
 
 ---
 
@@ -121,6 +122,22 @@ Excel Tables · XLOOKUP · SUMIFS · Data Validation · IF · COUNTIF · Conditi
 ![Ration Shop Dashboard](./Ration-Shop-Tracker/Dashboard.png)
 
 ➡️ Full details, more screenshots and the Excel file: [Ration-Shop-Tracker folder](./Ration-Shop-Tracker)
+
+---
+
+## 📈 Sales Dashboard: Regions, Products & Targets (Excel)
+
+### 📖 Overview
+A sales dashboard for a snacks and beverages distributor, built in **Microsoft Excel**: sales by region, category and customer, month-to-month growth, and target vs actual for each salesperson. One slicer filters every pivot.
+*All data is made up, for demonstration only.*
+
+### 💡 Skills Demonstrated
+Excel Tables · XLOOKUP · SUMIFS · COUNTIFS · TEXT & DATE · Conditional Formatting · Pivot Tables · Slicers · Charts
+
+### 🖼️ Project Preview
+![Sales Dashboard](./Sales-Dashboard/Dashboard.png)
+
+➡️ Full details, more screenshots and the Excel file: [Sales-Dashboard folder](./Sales-Dashboard)
 
 ---
 
