@@ -10,6 +10,7 @@ Built by **Aditya Kumar Gupta**, MBA (Marketing) | MIS & Business Analytics
 4. [🎨 Get Started with Canva](#-get-started-with-canva)
 5. [🛒 Ration Shop Stock & Sales Tracker (Excel)](#-ration-shop-stock--sales-tracker-excel)
 6. [📈 Sales Dashboard: Regions, Products & Targets (Excel)](#-sales-dashboard-regions-products--targets-excel)
+7. [🧹 Data Cleaning: Messy Export to Clean List (Excel)](#-data-cleaning-messy-export-to-clean-list-excel)
 
 ---
 
@@ -138,6 +139,22 @@ Excel Tables · XLOOKUP · SUMIFS · COUNTIFS · TEXT & DATE · Conditional Form
 ![Sales Dashboard](./Sales-Dashboard/Dashboard.png)
 
 ➡️ Full details, more screenshots and the Excel file: [Sales-Dashboard folder](./Sales-Dashboard)
+
+---
+
+## 🧹 Data Cleaning: Messy Export to Clean List (Excel)
+
+### 📖 Overview
+A messy customer-orders export (extra spaces, old city names, text dates and amounts, duplicates, blank rows) cleaned in **Microsoft Excel** with formulas only, plus a checks sheet proving the row counts and totals match.
+*All data is made up, for demonstration only.*
+
+### 💡 Skills Demonstrated
+Data Cleaning · TRIM · PROPER · SUBSTITUTE · VALUE · LEFT / MID / RIGHT · DATE · XLOOKUP · COUNTIF · FILTER
+
+### 🖼️ Project Preview
+![Data Cleaning Checks](./Data-Cleaning/Checks.png)
+
+➡️ Before/after screenshots and the Excel file: [Data-Cleaning folder](./Data-Cleaning)
 
 ---
 
