@@ -8,6 +8,7 @@ Built by **Aditya Kumar Gupta**, MBA (Marketing) | MIS & Business Analytics
 2. [📊 Professional Monthly Financial Dashboard (Excel)](#-professional-monthly-financial-dashboard-excel)
 3. [🎨 How To Visualize Your Data Using Microsoft PowerPoint](#-how-to-visualize-your-data-using-microsoft-powerpoint)
 4. [🎨 Get Started with Canva](#-get-started-with-canva)
+5. [🛒 Ration Shop Stock & Sales Tracker (Excel)](#-ration-shop-stock--sales-tracker-excel)
 
 ---
 
@@ -104,6 +105,22 @@ Canva · Graphic Design · Video Editing · Storytelling · Visual Communication
 - 🎥 [Watch the Canva project video](./Get_Started_With_Canva_Project.mp4)
 
 **Credential:** [View Certificate on Coursera](https://coursera.org/share/64864fa5a75004ad6eb2a887149ddec8)
+
+---
+
+## 🛒 Ration Shop Stock & Sales Tracker (Excel)
+
+### 📖 Overview
+A stock and sales tracker for a small ration (grocery) shop, built in **Microsoft Excel**. Sales and purchases go in; Excel works out prices, current stock and what to reorder, and shows it on one dashboard.
+*All data is made up, for demonstration only.*
+
+### 💡 Skills Demonstrated
+Excel Tables · XLOOKUP · SUMIFS · Data Validation · IF · COUNTIF · Conditional Formatting · Pivot Tables · Pivot Charts
+
+### 🖼️ Project Preview
+![Ration Shop Dashboard](./Ration-Shop-Tracker/Dashboard.png)
+
+➡️ Full details, more screenshots and the Excel file: [Ration-Shop-Tracker folder](./Ration-Shop-Tracker)
 
 ---
 
