@@ -11,6 +11,7 @@ Built by **Aditya Kumar Gupta**, MBA (Marketing) | MIS & Business Analytics
 5. [🛒 Ration Shop Stock & Sales Tracker (Excel)](#-ration-shop-stock--sales-tracker-excel)
 6. [📈 Sales Dashboard: Regions, Products & Targets (Excel)](#-sales-dashboard-regions-products--targets-excel)
 7. [🧹 Data Cleaning: Messy Export to Clean List (Excel)](#-data-cleaning-messy-export-to-clean-list-excel)
+8. [🔄 Self-Refreshing Monthly Sales Report (Excel + Power Query)](#-self-refreshing-monthly-sales-report-excel--power-query)
 
 ---
 
@@ -155,6 +156,22 @@ Data Cleaning · TRIM · PROPER · SUBSTITUTE · VALUE · LEFT / MID / RIGHT · 
 ![Data Cleaning Checks](./Data-Cleaning/Checks.png)
 
 ➡️ Before/after screenshots and the Excel file: [Data-Cleaning folder](./Data-Cleaning)
+
+---
+
+## 🔄 Self-Refreshing Monthly Sales Report (Excel + Power Query)
+
+### 📖 Overview
+Six messy monthly CSV exports from a (made-up) 4-store retailer, combined and cleaned with **Power Query**, merged with a product list, and shown on a dashboard with targets and checks. A new month = drop the file in the folder and click Refresh All.
+*All data is made up, for demonstration only.*
+
+### 💡 Skills Demonstrated
+Power Query (From Folder, Merge Queries, locale dates) · Pivot Tables & Charts · Slicers · SUMIFS · XLOOKUP · Data Reconciliation
+
+### 🖼️ Project Preview
+![Monthly Sales Report Dashboard](./Monthly-Sales-Report/Dashboard.png)
+
+➡️ Files, data and screenshots: [Monthly-Sales-Report folder](./Monthly-Sales-Report)
 
 ---
 
