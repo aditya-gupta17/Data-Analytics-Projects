@@ -12,6 +12,7 @@ Built by **Aditya Kumar Gupta**, MBA (Marketing) | MIS & Business Analytics
 6. [📈 Sales Dashboard: Regions, Products & Targets (Excel)](#-sales-dashboard-regions-products--targets-excel)
 7. [🧹 Data Cleaning: Messy Export to Clean List (Excel)](#-data-cleaning-messy-export-to-clean-list-excel)
 8. [🔄 Self-Refreshing Monthly Sales Report (Excel + Power Query)](#-self-refreshing-monthly-sales-report-excel--power-query)
+9. [📊 Kitchenware Sales Dashboard (Power BI)](#-kitchenware-sales-dashboard-power-bi)
 
 ---
 
@@ -172,6 +173,22 @@ Power Query (From Folder, Merge Queries, locale dates) · Pivot Tables & Charts 
 ![Monthly Sales Report Dashboard](./Monthly-Sales-Report/Dashboard.png)
 
 ➡️ Files, data and screenshots: [Monthly-Sales-Report folder](./Monthly-Sales-Report)
+
+---
+
+## 📊 Kitchenware Sales Dashboard (Power BI)
+
+### 📖 Overview
+My first Power BI project: an interactive dashboard for a (made-up) 4-store kitchenware retailer. Two tables (Sales and Products) are linked with a one-to-many relationship, and DAX measures drive KPI cards, sales by category, sales by month and a store slicer. Every number was checked against the Excel version (₹10,48,000, 295 invoices).
+*All data is made up, for demonstration only.*
+
+### 💡 Skills Demonstrated
+Power BI · Data modelling (relationships) · DAX (SUM, COUNTROWS, DIVIDE, FORMAT) · Slicers · Checking results against a second source
+
+### 🖼️ Project Preview
+![Kitchenware Sales Dashboard](./Power-BI-Sales-Dashboard/Dashboard.png)
+
+➡️ Power BI file, data and screenshots: [Power-BI-Sales-Dashboard folder](./Power-BI-Sales-Dashboard)
 
 ---
 
