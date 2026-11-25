@@ -13,6 +13,7 @@ Built by **Aditya Kumar Gupta**, MBA (Marketing) | MIS & Business Analytics
 7. [🧹 Data Cleaning: Messy Export to Clean List (Excel)](#-data-cleaning-messy-export-to-clean-list-excel)
 8. [🔄 Self-Refreshing Monthly Sales Report (Excel + Power Query)](#-self-refreshing-monthly-sales-report-excel--power-query)
 9. [📊 Kitchenware Sales Dashboard (Power BI)](#-kitchenware-sales-dashboard-power-bi)
+10. [🧾 Client Brief to Delivery: Fee Receipts Cleaning (Excel)](#-client-brief-to-delivery-fee-receipts-cleaning-excel)
 
 ---
 
@@ -189,6 +190,22 @@ Power BI · Data modelling (relationships) · DAX (SUM, COUNTROWS, DIVIDE, FORMA
 ![Kitchenware Sales Dashboard](./Power-BI-Sales-Dashboard/Dashboard.png)
 
 ➡️ Power BI file, data and screenshots: [Power-BI-Sales-Dashboard folder](./Power-BI-Sales-Dashboard)
+
+---
+
+## 🧾 Client Brief to Delivery: Fee Receipts Cleaning (Excel)
+
+### 📖 Overview
+A practice order done like a real freelance job: a (made-up) tuition centre sends messy fee receipts and 9 requests. Cleaned with formulas only (names, cities, phones, text fees), repeated receipts removed by **Receipt No** (three different students share one name, so name-based de-duplication would be wrong), and a Checks sheet proves nothing was lost: 35 rows → 30 clean, fees 59,700 → 54,000, plus fees per city.
+*All data is made up, for demonstration only.*
+
+### 💡 Skills Demonstrated
+Reading a client brief · TRIM · PROPER · SUBSTITUTE · VALUE · XLOOKUP · COUNTIF · FILTER · SUMIFS · Data reconciliation
+
+### 🖼️ Project Preview
+![Fee Receipts Checks](./Fee-Receipts-Cleaning/Checks.png)
+
+➡️ Excel file, brief and screenshots: [Fee-Receipts-Cleaning folder](./Fee-Receipts-Cleaning)
 
 ---
 
